@@ -1,0 +1,1 @@
+C:\WebApps\Fabrik\Fabrik-org\FabrikamFiber.CallCenter\FabrikamFiber.Web.UITests\obj\Debug\FabrikamFiber.Web.UITests.csprojAssemblyReference.cache
